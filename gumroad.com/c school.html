@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>THE C SCHOOL Animation</title>
+  <style>
+    body {
+      background-color: #000;
+      color: white;
+      font-family: 'Arial Black', sans-serif;
+      text-align: center;
+      padding-top: 20vh;
+      font-size: 60px;
+    }
+
+    .animated-c {
+      display: inline-block;
+      animation: bounce 1.2s infinite;
+      color: #3428e4; /* Optional glow color */
+    }
+
+    @keyframes bounce {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-20px);
+      }
+    }
+  </style>
+</head>
+<body>
+  THE <span class="animated-c">C</span> SCHOOL
+</body>
+</html>

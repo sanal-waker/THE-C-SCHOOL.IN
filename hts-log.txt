@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 18 May 2025 21:12:43 at https://gumroad.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gumroad.com/ -O1 "C:\Users\Master\Downloads\poplr cult webb.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:19:38	Error: 	"Not Found" (404) at link https://gumroad.com/index.html (from https://gumroad.com/help)
+21:21:04	Error: 	"Not Found" (404) at link https://gumroad.com/assets/fonts/helpscout-docs3.eot (from https://gumroad.com/help/css/launch-1721905284936.css)
+21:21:04	Error: 	"Not Found" (404) at link https://gumroad.com/help/category/document.referrer (from https://gumroad.com/help/category/316-open-an-account.html)
+21:24:00	Error: 	"Not Found" (404) at link https://gumroad.com/help/article/11-us-sales-tax-on-gumroad.html (from https://gumroad.com/help/category/320-get-paid.html)
+21:24:01	Error: 	"Not Found" (404) at link https://gumroad.com/help/article/96-australian-gst-on-gumroad.html (from https://gumroad.com/help/category/320-get-paid.html)
+21:25:39	Error: 	"Not Found" (404) at link https://gumroad.com/help/article/document.referrer (from https://gumroad.com/help/article/64-is-gumroad-for-me.html)
+21:25:40	Error: 	"Not Found" (404) at link https://gumroad.com/customers.gumroad.com/article/278-guide-to-memberships.html (from https://gumroad.com/help/article/82-membership-products.html)
+21:25:41	Error: 	"Not Found" (404) at link https://gumroad.com/l/:product_permalink?affiliate_id= (from https://gumroad.com/help/article/249-affiliate-faq.html)
+21:25:41	Error: 	"Not Found" (404) at link https://gumroad.com/a/1234567 (from https://gumroad.com/help/article/249-affiliate-faq.html)
+21:25:41	Error: 	"Not Found" (404) at link https://gumroad.com/l/abcxyz (from https://gumroad.com/help/article/249-affiliate-faq.html)
+21:25:41	Error: 	"Not Found" (404) at link https://gumroad.com/l/abcxyz?affiliate_id=1234567 (from https://gumroad.com/help/article/249-affiliate-faq.html)
+21:25:43	Error: 	"Not Found" (404) at link https://gumroad.com/l/drIB. (from https://gumroad.com/help/article/74-the-analytics-dashboard.html)
+21:25:43	Error: 	"Not Found" (404) at link https://gumroad.com/customers.gumroad.com/article/206-how-to-open-zip-and-rar-files.html (from https://gumroad.com/help/article/177-the-gumroad-dashboard-app.html)
+21:25:45	Error: 	"Not Found" (404) at link https://gumroad.com/a/12345678?offer_code=doggies (from https://gumroad.com/help/article/333-affiliates-on-gumroad.html)
+21:25:45	Error: 	"Not Found" (404) at link https://gumroad.com/a/XXXXXXXX (from https://gumroad.com/help/article/333-affiliates-on-gumroad.html)
+21:25:45	Error: 	"Not Found" (404) at link https://gumroad.com/l/%7BYourProductID%7D/%7BYourDiscountCode%7D?affiliate_id=%7BAffiliate_ID%7D (from https://gumroad.com/help/article/333-affiliates-on-gumroad.html)
+21:25:46	Error: 	"Not Found" (404) at link https://gumroad.com/customers.gumroad.com/article/200-i-need-a-vat-refund.html (from https://gumroad.com/help/article/10-dealing-with-vat.html)
+21:25:46	Error: 	"Not Found" (404) at link https://gumroad.com/help/article/302-sell-ebooks.html (from https://gumroad.com/help/article/130-pdf-stamping.html)
+21:25:47	Error: 	"Not Found" (404) at link https://gumroad.com/help.gumroad.com/article/177-the-gumroad-dashboard-app.html (from https://gumroad.com/help/article/191-a-guide-to-buying-on-gumroad.html)
+21:25:47	Error: 	"Not Found" (404) at link https://gumroad.com/help.gumroad.com/article/51-what-is-gumroads-refund-policy.html (from https://gumroad.com/help/article/190-how-do-i-get-a-refund.html)
+21:25:47	Error: 	"Not Found" (404) at link https://gumroad.com/help.gumroad.com/article/283-fraudulent-purchases.html (from https://gumroad.com/help/article/190-how-do-i-get-a-refund.html)
+21:25:47	Error: 	"Not Found" (404) at link https://gumroad.com/help.gumroad.com/article/155-things-you-cant-sell-on-gumroad.html (from https://gumroad.com/help/article/226-report-a-creator.html)
+21:25:47	Error: 	"Too Many Requests" (429) at link https://gumroad.com/signup?next=%2Fproducts (from https://gumroad.com/login?next=%2Fproducts)
+21:25:47	Error: 	"Too Many Requests" (429) at link https://gumroad.com/signup?next=%2Fdashboard%2Faudience (from https://gumroad.com/login?next=%2Fdashboard%2Faudience)
+21:25:47	Error: 	"Too Many Requests" (429) at link https://gumroad.com/signup?next=%2Fcustomers (from https://gumroad.com/login?next=%2Fcustomers)
+21:25:47	Error: 	"Too Many Requests" (429) at link https://gumroad.com/signup?next=%2Fsettings%2Fpayments (from https://gumroad.com/login?next=%2Fsettings%2Fpayments)
+21:25:47	Error: 	"Too Many Requests" (429) at link https://gumroad.com/signup?next=%2Foauth%2Fauthorize%3Fclient_id%3DCLIENT_ID%26redirect_uri%3DREDIRECT_URI%26scope%3DSCOPE (from https://gumroad.com/oauth/login?next=%2Foauth%2Fauthorize%3Fclient_id%3DCLIENT_ID%26redirect_uri%3DREDIRECT_URI%26scope%3DSCOPE)
+21:25:47	Error: 	"Too Many Requests" (429) at link https://gumroad.com/signup?next=%2Foauth%2Fauthorize%3Fclient_id%3Df74e4939f6f9efe74f85ff034af9e9e04540d1e8fce609d652715db5480d4dbe%26redirect_uri%3Dhttps%3A%2F%2Foauthdebugger.com%2Fdebug%26scope%3Dedit_products (from https://gumroad.com/oauth/login?next=%2Foauth%2Fauthorize%3Fclient_id%3Df74e4939f6f9efe74f85ff034af9e9e04540d1e8fce609d652715db5480d4dbe%26redirect_uri%3Dhttps%3A%2F%2Foauthdebugger.com%2Fdebug%26scope%3Dedit_products)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 4 seconds : 697 links scanned, 668 files written (248134222 bytes overall) [213303967 bytes received at 272071 bytes/sec], 47827027 bytes transferred using HTTP compression in 387 files, ratio 24%, 14.9 requests per connection
+(28 errors, 0 warnings, 0 messages)

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+gumroad.com	TRUE	/	FALSE	1999999999	_gumroad_guid	f85aa71b-b670-41e4-a9bd-f8d7d5b2edbe
+gumroad.com	TRUE	/	FALSE	1999999999	_gumroad_app_session	f50Ed3c5M5S0SMFyudVspuDIe2gihHDaPGygOR4zJqevOFEAnqcseJZWute9dSzPjErtjH92NwHZxeLStAMV0cPTxHq42VpKP00p0fSWBQP%2F6kNY2PMbH96W8ExHjtBhQ%2B2PVqmYDLJV9ZkPRWc42Gs6umdX2HOuvlrxeuQM7v%2BN3NbiDhG2aF%2FcdpVCinpUWKa9Hm2YcDZ368zyLfERFobf7Aj2BBSamsYJ6EkCg5t4oubx1JfypoaDQHm%2BrNULnkZ84ZwnWwjFPNtyqnR6vf05EoZuEgtlrIPDao0gy43etXHVRsp5JUxXan7tg52KH55rIgtWIbDX1QC%2F4aOA4K1nQ3G%2Bmokm5P%2BUAB%2FiagLbHDSG18HgKx6Bkn%2Fitg%3D%3D--MiQe1xC2G1S%2FCz3W--K%2FSicUYt%2BWp7pIfv0bJg7Q%3D%3D
+gumroad.com	TRUE	/	FALSE	1999999999	samesite	lax
+
